@@ -88,6 +88,8 @@ web_modules/
 .awsconfig.json
 # Optional eslint cache
 .eslintcache
+.eslintrc.json
+.vscode/settings.json
 
 # Microbundle cache
 .rpt2_cache/
